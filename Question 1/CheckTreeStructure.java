@@ -1,19 +1,13 @@
-package Assignment2_Q1;
-
 public class CheckTreeStructure {
 
 
 	//-----------------------------------------------------------------
 	// Title: Question 1
-	// Author: Basme Zantout
-	// ID: 99227947762
-	// Section: 1
-	// Assignment: 2 
 	// Description: This is a class used by the main class. It 
 	//              has the methods that perform the needed operations, 
-    //              which are intended check whether a graph satisfies 
+        //              which are intended check whether a graph satisfies 
 	//              the three conditions that make it  eligible to be
-    //              converted to a tree structure.
+        //              converted to a tree structure.
 	//-----------------------------------------------------------------
 	
 	
