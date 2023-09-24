@@ -1,17 +1,11 @@
-  package Assignment2_Q2;
-
 public class Traversals {
 	
 
 	//-----------------------------------------------------------------
 	// Title: Question 2
-	// Author: Basme Zantout
-	// ID: 99227947762
-	// Section: 1
-	// Assignment: 2
 	// Description: This is a helper class that is used by the main 
-    //              class. It has the needed operations and methods to
-    //              find the required path calculate its cost. 
+        //              class. It has the needed operations and methods to
+        //              find the required path calculate its cost. 
 	//-----------------------------------------------------------------
 	
 	
