@@ -1,19 +1,12 @@
-package Assignment2_Q1;
-import Assignment1_Q1.Bag;
-
 public class Digraph {
 
 
 	//-----------------------------------------------------------------
 	// Title: Question 1
-	// Author: Basme Zantout
-	// ID: 99227947762
-	// Section: 1
-	// Assignment: 2
 	// Description: This is an Directed Graph class, which has the 
-    //              methods that create a directed graph and that perform
-    //              basic graph operations based on the Graph data structure.
-    //              This class also depends on the Bag.java class in its
+        //              methods that create a directed graph and that perform
+        //              basic graph operations based on the Graph data structure.
+        //              This class also depends on the Bag.java class in its
 	//              implementation
 	//-----------------------------------------------------------------
 	
