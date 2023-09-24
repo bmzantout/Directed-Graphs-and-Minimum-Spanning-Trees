@@ -1,3 +1,5 @@
+import Bag;
+
 public class Digraph {
 
 
