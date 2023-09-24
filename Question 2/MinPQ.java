@@ -1,16 +1,10 @@
-package Assignment2_Q2;
-
 public class MinPQ {
 	
 	//-----------------------------------------------------------------
 	// Title: Question 2
-	// Author: Basme Zantout
-	// ID: 99227947762
-	// Section: 1
-	// Assignment: 2
 	// Description: This is a standard Minimum Priority Queue 
-    //              data structure taken from the "Algorithms, 4th edition
-    //              by Robert Sedgewick and Kevin Wayne" book for reference
+        //              data structure taken from the "Algorithms, 4th edition
+        //              by Robert Sedgewick and Kevin Wayne" book for reference
 	//-----------------------------------------------------------------
 	
 	
