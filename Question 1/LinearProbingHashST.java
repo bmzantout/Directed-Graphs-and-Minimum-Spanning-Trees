@@ -1,19 +1,13 @@
-package Assignment2_Q1;
-
 public class LinearProbingHashST <Key> {
 
 
 	//-----------------------------------------------------------------
 	// Title: Question 1
-	// Author: Basme Zantout
-	// ID: 99227947762
-	// Section: 1
-	// Assignment: 2
 	// Description: This is an Hash Table or Symbol Table class, which 
-    //              has the methods that store a set of values in a hash
-    //              table data structure by computing their hash codes
-    //              and functions. The class implements the Linear-Probing 
-    //              Hashing method.
+        //              has the methods that store a set of values in a hash
+        //              table data structure by computing their hash codes
+        //              and functions. The class implements the Linear-Probing 
+        //              Hashing method.
 	//-----------------------------------------------------------------
 	
 	
