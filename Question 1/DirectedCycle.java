@@ -1,18 +1,11 @@
-package Assignment2_Q1;
-import Assignment1_Q1.Stack;
-
 public class DirectedCycle {
 
 
 	//-----------------------------------------------------------------
 	// Title: Question 1
-	// Author: Basme Zantout
-	// ID: 99227947762
-	// Section: 1
-	// Assignment: 2
 	// Description: This is an Directed Cycle class, which has the 
-    //              methods that checks whether a directed graph is 
-    //              cyclic or not.
+        //              methods that checks whether a directed graph is 
+        //              cyclic or not.
 	//-----------------------------------------------------------------
 	
 	
