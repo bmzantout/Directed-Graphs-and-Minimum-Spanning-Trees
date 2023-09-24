@@ -1,16 +1,10 @@
-package Assignment2_Q2;
-
 public class Vertex {
 	
 
 	//-----------------------------------------------------------------
 	// Title: Question 2
-	// Author: Basme Zantout
-	// ID: 99227947762
-	// Section: 1
-	// Assignment: 2
 	// Description: This is a Vertex class, which has the attributes and
-    //              methods required for the Vertex object
+        //              methods required for the Vertex object
 	//-----------------------------------------------------------------
 	
 
