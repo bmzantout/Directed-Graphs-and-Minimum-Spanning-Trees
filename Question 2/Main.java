@@ -1,4 +1,3 @@
-package Assignment2_Q2;
 import java.util.Scanner;
 
 public class Main {
@@ -9,14 +8,10 @@ public class Main {
 
 		//-----------------------------------------------------------------
 		// Title: Question 2
-		// Author: Basme Zantout
-		// ID: 99227947762
-		// Section: 1
-		// Assignment: 2
 		// Description: This is the main class for Question 2 which calls 
 		//              the methods that perform the needed operations, 
-	    //              which are intended to operate an MST  over a graph 
-	    //              from a source vertex to a destination vertex, while
+	        //              which are intended to operate an MST  over a graph 
+	        //              from a source vertex to a destination vertex, while
 		//              calculating the total expense of the path taken.
 		//-----------------------------------------------------------------
 		
