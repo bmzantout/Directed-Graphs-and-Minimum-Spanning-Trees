@@ -1,14 +1,9 @@
-package Assignment2_Q2;
-import Assignment1_Q1.Queue;
+import Queue;
 
 public class KruskalMST {
 	
 	//-----------------------------------------------------------------
 	// Title: Question 2
-	// Author: Basme Zantout
-	// ID: 99227947762
-	// Section: 1
-	// Assignment: 2
 	// Description: This is a standard Kruskal Minimum Spanning Tree
 	//              algorithm taken from the "Algorithms, 4th edition
 	//              by Robert Sedgewick and Kevin Wayne" book for reference
