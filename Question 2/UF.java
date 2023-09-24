@@ -1,13 +1,7 @@
-package Assignment2_Q2;
-
 public class UF {
 	
 	//-----------------------------------------------------------------
 	// Title: Question 2
-	// Author: Basme Zantout
-	// ID: 99227947762
-	// Section: 1
-	// Assignment: 2
 	// Description: This is a standard Union Find algorithm taken from 
 	//              the "Algorithms, 4th edition by Robert Sedgewick and 
 	//              Kevin Wayne" book for reference
@@ -59,7 +53,7 @@ public class UF {
 		  // Nothing to do if p and q are already in the same component.
 		  if (pID == qID) return;
 		  
-		  // Rename p’s component to q’s name.
+		  // Rename pâ€™s component to qâ€™s name.
 		  for (int i = 0; i < id.length; i++)
 		  if (id[i] == pID) id[i] = qID;
 		  count--;
