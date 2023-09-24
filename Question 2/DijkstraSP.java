@@ -1,16 +1,11 @@
-package Assignment2_Q2;
-import Assignment1_Q1.Stack;
+import Stack;
 
 public class DijkstraSP {
 	
 	//-----------------------------------------------------------------
 	// Title: Question 2
-	// Author: Basme Zantout
-	// ID: 99227947762
-	// Section: 1
-	// Assignment: 2
 	// Description: This is a standard Dijkstra Shortest Path algorithm
-    //              taken from the "Algorithms, 4th edition by Robert
+        //              taken from the "Algorithms, 4th edition by Robert
 	//              Sedgewick and Kevin Wayne" book for reference
 	//-----------------------------------------------------------------
 	
